@@ -691,6 +691,11 @@ ul.sub-menu {
   margin-bottom: 0;
   font-weight: 300;
 }
+.action p2{
+  font-size: 20px;
+  margin-bottom: 0;
+  font-weight: 700;
+}
 
 .action .btn-common{
   margin-top: 55px;
